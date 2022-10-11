@@ -1,2 +1,0 @@
-0;10;1c0;10;1c#!/bin/bash
-echo $((2#BINARY))
