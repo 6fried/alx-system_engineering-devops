@@ -1,2 +1,2 @@
 #!/bin/bash
-echo $(( 16#$BINARY ))
+printf "%x\n" $(( 16#$BINARY ))
