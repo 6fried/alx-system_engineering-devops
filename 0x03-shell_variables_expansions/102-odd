@@ -1,2 +1,2 @@
 #!/bin/bash
-grep -v $1 | grep ^$1
+paste -- | cut -d$'\t' -f1
